@@ -1,1 +1,1 @@
-docker build -t supermy/mongodb:3.0.4 .
+docker build -t supermy/docker-mongodb:3.0.4 .
